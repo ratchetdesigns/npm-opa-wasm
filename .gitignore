@@ -3,5 +3,3 @@
 *.wasm
 node_modules
 *.lock
-types/
-dist/
